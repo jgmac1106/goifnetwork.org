@@ -2,9 +2,9 @@
 
 body {
   margin: 40px;
-  background-color: #ffdf99;
+  background-color: 
   font-family: 'Fira Sans', sans-serif;
-            	color: white;
+            	
             	font-size: 16px;
 }
 header {
@@ -21,7 +21,7 @@ nav li{
 }
 nav a {
   text-decoration: none;
-  color: white;
+  color:;
  margin-right: .5em;
     border-top: 1px solid #34dbcb; 
     border-bottom: 1px solid #34dbcb; 
@@ -92,7 +92,7 @@ nav a:hover {
 }
 
 .wrapper {
-background-color: #FF0000;
+background-color: ;
 display: grid;
 grid-gap: 2%;
 grid-template-columns: repeat(3, 30%);
@@ -109,7 +109,7 @@ margin-bottom: 2em;
  grid-template-columns: repeat(2, 45%);
 justify-items: center;
 margin-bottom: 2em;
-background-color: #FF5C00;
+background-color: ;
    #4E4F53
     }
 .wrapper2 img {
@@ -118,11 +118,11 @@ background-color: #FF5C00;
 .wrapper1 {
  display: grid;
  grid-gap: 2%;
- grid-template-columns: repeat(1, 90%);
+ grid-template-columns: repeat(1, 100%);
 justify-items: center;
 margin-bottom: 2em;
 padding-bottom: 20%;
-background-color: #FFB100;
+background-color:;
     }
 .wrapper1 iframe {
     margin: 0 auto;
@@ -172,7 +172,7 @@ margin-bottom: 2em;
 
     }
 .wrapper5 {
-background-color:#FF5C00;
+background-color:;
 display: grid;
 grid-gap: 2%;
 grid-template-columns: repeat(3, 30%);
@@ -184,7 +184,7 @@ margin-bottom: 2em;
 }
 @media (max-width: 768px) {
   .wrapper {
-background-color: #FF0000;
+background-color: ;
 display: grid;
 grid-gap: 2%;
 grid-template-columns: repeat(1, 90%);
@@ -205,10 +205,10 @@ padding-bottom:200px;
  grid-gap: 2%;
  grid-template-columns: repeat(1, 90%);
 margin-bottom: 2em;
-background-color: #FFB100;
+background-color: ;
     }
   .wrapper5 {
-background-color:#FF5C00;
+background-color:;
 display: grid;
 grid-gap: 2%;
 grid-template-columns: repeat(1, 90%);
@@ -225,7 +225,7 @@ margin-bottom: 2em;
 }
 }
 .events {
- background-color: #FFB100;
+ background-color: 
 
 }
 .events h2 {
@@ -233,28 +233,28 @@ margin-bottom: 2em;
   font-size: 2em;
 }
 .why{
- background-color: #FF5C00;
+ background-color:;
 }
 .why h2 {
   text-align: center;
   font-size: 2em;
 }
 .who{
- background-color: #FF5C00;
+ background-color:;
 }
 .who h2 {
   text-align: center;
   font-size: 2em;
 }
 .webliteracy {
-  background-color: #FF0000;
+  background-color: 
 }
 .webliteracy h2 {
   text-align: center;
   font-size: 2em;
 }
 .Sponsors {
-  background-color: #FF0000;
+  background-color: ;
 }
 .Sponsors h2 {
   text-align: center;
@@ -284,8 +284,8 @@ footer {
   justify-content:center;
    padding: 10px;
   font-size: .75em;
-  color: white;
- background-color:#FF0000;
+
+ background-color:;
   
 }
 footer .flex-item {
